@@ -1,4 +1,4 @@
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev.visitor-badge&right_color=RGB(142,83,201)&left_text=My%20Page%20Visitors)](#)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev.visitor-badge&right_color=RGB(142,83,201)&left_text=My%20Page%20Visits)](#)
 
 :man: | He/Him  <br />
 :poland: | Male Pole  <br />
