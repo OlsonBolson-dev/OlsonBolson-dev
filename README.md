@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev.visitor-badge)
+
 👨 | He/Him  <br />
 🇵🇱 | Male Pole  <br />
 🧠 | Interested in games, IT, and laying down  <br />
