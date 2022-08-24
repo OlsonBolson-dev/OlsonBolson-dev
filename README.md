@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate and self thought frontend developer</h3>
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(142,83,201)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /> </p>
+<p align="left"> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(142,83,201)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olsonbolson-dev&theme=onedark" alt="olsonbolson-dev" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=olsonbolson-dev&theme=onedark" alt="olsonbolson-dev" /></a> </p>
 
 - 🔭 I’m currently working on [Dev Store Website](https://github.com/OlsonBolson-dev/Anomaly-Store)
 
@@ -20,8 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olsonbolson-dev&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="olsonbolson-dev" /></p>
+<p><a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olsonbolson-dev&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="olsonbolson-dev" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olsonbolson-dev&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="olsonbolson-dev" /></p>
+<p>&nbsp;<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olsonbolson-dev&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="olsonbolson-dev" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OlsonBolson-dev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="olsonbolson-dev" /></p>
+<p><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OlsonBolson-dev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="olsonbolson-dev" /></a> </p>
