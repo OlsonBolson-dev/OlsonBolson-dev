@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h1 align="center">Hi 👋, I'm Alexander</h1> 
 <h3 align="center">A passionate and self thought frontend developer</h3>
 
 <p align="left"> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p>
