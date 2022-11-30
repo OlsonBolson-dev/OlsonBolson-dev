@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dev Store Website](https://github.com/OlsonBolson-dev/Anomaly-Code)
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **C# & Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OlsonBolson-dev?tab=repositories](https://github.com/OlsonBolson-dev?tab=repositories)
 
