@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=olsonbolson-dev&theme=onedark" alt="olsonbolson-dev" /></a> </p>
 
-- 🔭 I’m currently working on [a 2d platformer](https://github.com/OlsonBolson-dev/X)
+- 🔭 I’m currently working on [a 2d platformer](https://github.com/OlsonBolson-dev/#)
 
 - 🌱 I’m currently learning **C# & Unity**
 
