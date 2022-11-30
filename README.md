@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# & Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OlsonBolson-dev?tab=repositories](https://github.com/OlsonBolson-dev?tab=repositories)
+- 👨‍💻 All of my projects are available in [github repositories](https://github.com/OlsonBolson-dev?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
