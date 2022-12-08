@@ -4,17 +4,15 @@
 <!-- <p> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p> -->
 
 <h2>:green_circle: Status</h2>
-- 🔭 I’m currently working on [a 2d platformer](https://github.com/OlsonBolson-dev/#)
+<ul style="list-style-type:disc;">
+    <li>🔭 I’m currently working on <a href="https://github.com/OlsonBolson-dev/#">a 2d platformer</a></li>
+    <li>🌱 I’m currently learning C# & Unity</li>
+    <li>👨‍💻 All of my projects are available in <a href="https://github.com/OlsonBolson-dev?tab=repositories">my github repositories</a></li>
+</ul>
 
-- 🌱 I’m currently learning **C# & Unity**
-
-- 👨‍💻 All of my projects are available in [my github repositories](https://github.com/OlsonBolson-dev?tab=repositories)
-
-<h2>:octocat: Connect with me</h2>
-<p align="left">
-<a href="https://twitter.com/olsonbolson_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olsonbolson_dev" height="30" width="40" /></a>
-<a href="https://discord.com/users/444131047316389888" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="789" height="30" width="40" /></a>
-</p>
+<h2>:globe_with_meridians: Connect with me</h2>
+<a href="https://twitter.com/olsonbolson_dev"><code><img title="Twitter" alt="Link to my Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></code></a>
+<a href="https://discord.com/users/444131047316389888"><code><img title="Discord" alt="Link to my Discord" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></code></a>
 
 <h2>:bulb: Languages & Frameworks</h2>
 <a href="#"><code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code></a>
@@ -29,7 +27,7 @@
 <a href="#"><code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code></a>
 <a href="#"><code><img title="Unity" alt="unity" width="30px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></code></a>
 
-<h3>My GitHub Stats</h3>
+<h2>:octocat: My GitHub Stats</h2>
 <details>
 <summary>General Stats</summary>
 <div alig="center">
