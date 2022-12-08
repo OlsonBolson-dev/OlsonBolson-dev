@@ -1,33 +1,70 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1> 
-<h3 align="center">A passionate and self thought frontend developer</h3>
+<h3 align="center">A passionate and self thought developer</h3>
 
-<p align="left"> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p>
+<!-- <p> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p> -->
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=olsonbolson-dev&theme=onedark" alt="olsonbolson-dev" /></a> </p>
-
+<h2>:green_circle: Status</h2>
 - 🔭 I’m currently working on [a 2d platformer](https://github.com/OlsonBolson-dev/#)
 
 - 🌱 I’m currently learning **C# & Unity**
 
-- 👨‍💻 All of my projects are available in [github repositories](https://github.com/OlsonBolson-dev?tab=repositories)
+- 👨‍💻 All of my projects are available in [my github repositories](https://github.com/OlsonBolson-dev?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h2>:octocat: Connect with me</h2>
 <p align="left">
-<a href="https://twitter.com/olsonbolson_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olsonbolson_dev" height="30" width="40" /></a>
-<a href="https://discord.com/users/444131047316389888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="789" height="30" width="40" /></a>
+<a href="https://twitter.com/olsonbolson_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olsonbolson_dev" height="30" width="40" /></a>
+<a href="https://discord.com/users/444131047316389888" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="789" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> (still learning tho)
-</p>
+<h2>:bulb: Languages & Frameworks</h2>
+<a href="#"><code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code></a>
+<!-- <a href="#"><code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code></a> -->
+<a href="#"><code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code></a>
+<a href="#"><code><img title="C#" alt="C sharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code></a>
 
-<p><a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olsonbolson-dev&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="olsonbolson-dev" /></a> </p>
+<h2>:hammer_and_wrench: Tools I use</h2>
+<a href="#"><code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code></a>
+<a href="#"><code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code></a>
+<a href="#"><code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code></a>
+<a href="#"><code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code></a>
+<a href="#"><code><img title="Unity" alt="unity" width="30px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></code></a>
 
-<p>&nbsp;<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olsonbolson-dev&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="olsonbolson-dev" /></a> </p>
+<h3>My GitHub Stats</h3>
+<details>
+<summary>General Stats</summary>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=olsonbolson-dev&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="my github stats" />
+    </a>
+</div>
+</details>
 
-<p><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OlsonBolson-dev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="olsonbolson-dev" /></a> </p>
+<details>
+<summary>Top languages</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=olsonbolson-dev&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="most used languages" />
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+
+<details>
+<summary>Streak stats</summary>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://github-readme-streak-stats.herokuapp.com?user=OlsonBolson-dev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+    </a>
+</details>
+
+<details>
+<summary>Achievements</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=olsonbolson-dev&theme=onedark">
+</a>
+</details>
+
+<details>
+<summary>Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/OlsonBolson-dev/count.svg">
+</div>
+</details>
