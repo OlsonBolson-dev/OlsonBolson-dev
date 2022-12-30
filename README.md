@@ -5,8 +5,8 @@
 
 <h2>:green_circle: Status</h2>
 <ul style="list-style-type:disc;">
-    <li>🔭 I’m currently working on <a href="https://github.com/OlsonBolson-dev/#">a 2d platformer</a></li>
-    <li>🌱 I’m currently learning C# & Unity</li>
+    <li>🔭 I’m currently working on <a href="https://github.com/OlsonBolson-dev/The-Corner-Bot">a discord bot</a></li>
+    <li>🌱 I’m currently learning <b>Python</b></li>
     <li>👨‍💻 All of my projects are available in <a href="https://github.com/OlsonBolson-dev?tab=repositories">my github repositories</a></li>
 </ul>
 
@@ -14,11 +14,11 @@
 <a href="https://twitter.com/olsonbolson_dev"><code><img title="Twitter" alt="Link to my Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></code></a>
 <a href="https://discord.com/users/444131047316389888"><code><img title="Discord" alt="Link to my Discord" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></code></a>
 
-<h2>:bulb: Languages & Frameworks</h2>
+<h2>:bulb: Languages</h2>
 <a href="#"><code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code></a>
-<!-- <a href="#"><code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code></a> -->
 <a href="#"><code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code></a>
 <a href="#"><code><img title="C#" alt="C sharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code></a>
+<a href="#"><code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code></a>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
 <a href="#"><code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code></a>
