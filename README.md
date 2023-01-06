@@ -5,7 +5,7 @@
 
 <h2>:green_circle: Status</h2>
 <ul style="list-style-type:disc;">
-    <li>🔭 I’m currently working on <a href="https://github.com/OlsonBolson-dev/The-Corner-Bot">a discord bot</a></li>
+    <li>🔭 I’m currently working on <a href="https://github.com/OlsonBolson-dev/not-a-calculator">a python calculator</a></li>
     <li>🌱 I’m currently learning <b>Python</b></li>
     <li>👨‍💻 All of my projects are available in <a href="https://github.com/OlsonBolson-dev?tab=repositories">my github repositories</a></li>
 </ul>
