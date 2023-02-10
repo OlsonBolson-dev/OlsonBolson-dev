@@ -11,13 +11,14 @@
 </ul>
 
 <h2>:globe_with_meridians: Connect with me</h2>
-<a href="https://twitter.com/olsonbolson_dev"><code><img title="Twitter" alt="Link to my Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></code></a>
-<a href="https://discord.com/users/444131047316389888"><code><img title="Discord" alt="Link to my Discord" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></code></a>
+<a href="https://twitter.com/olsonbolson_dev" target="blank"><code><img title="Twitter" alt="olsonbolson_dev" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></code></a>
+<a href="https://discord.com/users/444131047316389888" target="blank"><code><img title="Discord" alt="olsonbolson_dev" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></code></a>
+<a href="https://stackoverflow.com/users/21183714" target="blank"><code><img title="Stackoverflow" alt="21183714" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></code></a>
 
 <h2>:bulb: Languages</h2>
 <a href="#"><code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code></a>
 <a href="#"><code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code></a>
-<a href="#"><code><img title="C#" alt="C sharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code></a>
+<a href="#"><code><img title="C#" alt="C-sharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code></a>
 <a href="#"><code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code></a>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
