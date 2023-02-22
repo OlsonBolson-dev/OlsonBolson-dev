@@ -67,3 +67,9 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/OlsonBolson-dev/count.svg">
 </div>
 </details>
+
+<h3 align="left">Support:</h3>
+<p>
+    <a href="https://www.buymeacoffee.com/olsonbolson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30px" alt="olsonbolson" /></a>
+    <a href="https://ko-fi.com/olsonbolson"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30px" alt="olsonbolson" /></a>
+</p>
