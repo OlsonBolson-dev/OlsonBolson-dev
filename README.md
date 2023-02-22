@@ -1,6 +1,11 @@
 <h1 align="center">Hi :wave:, I'm Alexander</h1> 
 <h3 align="center">A passionate and self thought developer</h3>
 
+<p align="center">
+    <a href="https://www.buymeacoffee.com/olsonbolson"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30px" alt="olsonbolson" /></a>
+    <a href="https://ko-fi.com/olsonbolson"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30px" alt="olsonbolson" /></a>
+</p>
+
 <!-- <p> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p> -->
 
 <h2>:green_circle: Status</h2>
@@ -20,7 +25,7 @@
 <a href="#"><code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code></a>
 <a href="#"><code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code></a>
 <a href="#"><code><img title="C#" alt="C-sharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code></a>
-<a href="#"><code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code></a>
+<a href="#"><code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code></a>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
 <a href="#"><code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code></a>
@@ -67,9 +72,3 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/OlsonBolson-dev/count.svg">
 </div>
 </details>
-
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/olsonbolson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30px" alt="olsonbolson" /></a>
-    <a href="https://ko-fi.com/olsonbolson"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30px" alt="olsonbolson" /></a>
-</p>
