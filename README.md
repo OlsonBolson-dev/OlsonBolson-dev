@@ -18,7 +18,7 @@
 <h2>:globe_with_meridians: Connect with me</h2>
 <a href="https://twitter.com/olsonbolson_dev" target="blank"><code><img title="OlsonBolson_dev" alt="twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></code></a>
 <a href="https://discord.com/users/444131047316389888" target="blank"><code><img title="OlsonBolson#7879" alt="discord" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></code></a>
-<a href="https://stackoverflow.com/users/21183714" target="blank"><code><img title="21183714" alt="stackoverflow" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></code></a>
+<a href="https://stackoverflow.com/users/14669197" target="blank"><code><img title="14669197" alt="stackoverflow" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></code></a>
 <a href="https://github.com/OlsonBolson-dev" target="blank"><code><img title="OlsonBolson-dev" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code></a>
 
 <h2>:bulb: Languages</h2>
