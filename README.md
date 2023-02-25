@@ -1,9 +1,9 @@
 <h1 align="center">Hi :wave:, I'm Alexander</h1> 
-<h3 align="center">A passionate and self thought developer</h3>
+<h3 align="center">A passionate and self-taught developer</h3>
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/olsonbolson"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30px" alt="olsonbolson" /></a>
-    <a href="https://ko-fi.com/olsonbolson"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30px" alt="olsonbolson" /></a>
+    <a href="https://www.buymeacoffee.com/olsonbolson"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40px" alt="olsonbolson" /></a>
+    <a href="https://ko-fi.com/olsonbolson"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40px" alt="olsonbolson" /></a>
 </p>
 
 <!-- <p> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p> -->
