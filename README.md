@@ -2,16 +2,16 @@
 <h3 align="center">A passionate and self-taught developer</h3>
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/olsonbolson"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40px" alt="olsonbolson" /></a>
     <a href="https://ko-fi.com/olsonbolson"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40px" alt="olsonbolson" /></a>
+    <a href="https://www.buymeacoffee.com/olsonbolson"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40px" alt="olsonbolson" /></a>
 </p>
 
 <!-- <p> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p> -->
 
 <h2>:green_circle: Status</h2>
 <ul style="list-style-type:disc;">
-    <li>🔭 I’m currently working on couple of <a href="https://github.com/OlsonBolson-dev/to-code-list">projects<a/>, I just can't decide.
-    <li>🌱 I’m currently learning <b>Python</b> and <b>CSS</b></li>
+    <li>🔭 I’m currently working on nothing.
+    <li>🌱 I’m currently learning <i>Italian</i><a href="https://youtu.be/9DImRZERJNs"><b><i>.</i></b></a> Yes, very useful for programming 😁</li>
     <li>👨‍💻 All of my projects are available in <a href="https://github.com/OlsonBolson-dev?tab=repositories">my github repositories</a></li>
 </ul>
 
@@ -63,12 +63,4 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=olsonbolson-dev&theme=onedark">
 </a>
-</details>
-
-<details>
-<summary>Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/OlsonBolson-dev/count.svg">
-</div>
 </details>
