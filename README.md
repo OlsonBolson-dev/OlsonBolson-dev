@@ -11,7 +11,7 @@
 <h2>:green_circle: Status</h2>
 <ul style="list-style-type:disc;">
     <li>🔭 I’m currently working on nothing.
-    <li>🌱 I’m currently learning <i>Italian</i><a href="https://youtu.be/9DImRZERJNs"><b><i>.</i></b></a> Yes, very useful for programming 😁</li>
+    <li>🌱 I’m currently learning <i>Italian</i><a href="https://youtu.be/mhIrhcZ087c"><b><i>.</i></b></a> Yes, very useful for programming 😁</li>
     <li>👨‍💻 All of my projects are available in <a href="https://github.com/OlsonBolson-dev?tab=repositories">my github repositories</a></li>
 </ul>
 
