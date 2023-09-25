@@ -8,10 +8,11 @@
 
 <!-- <p> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=OlsonBolson-dev&right_color=RGB(223,94,76)&left_color=RGB(40,44,52)&left_text=My%20Page%20Visits" alt="olsonbolson-dev" /></a> </p> -->
 
-<h2>:green_circle: Status</h2>
+<h2>:red_circle: Status</h2>
 <ul style="list-style-type:disc;">
-    <li>🔭 I’m currently working on nothing.
-    <li>🌱 I’m currently learning <i>Italian</i><a href="https://youtu.be/mhIrhcZ087c"><b><i>.</i></b></a> Yes, very useful for programming 😁</li>
+<!--     <li>🔭 I’m currently working on nothing. -->
+<!--     <li>🌱 I’m currently learning <i>Italian</i><a href="https://youtu.be/mhIrhcZ087c"><b><i>.</i></b></a> Yes, very useful for programming 😁</li> -->
+    <li>⭕ Busy.
     <li>👨‍💻 All of my projects are available in <a href="https://github.com/OlsonBolson-dev?tab=repositories">my github repositories</a></li>
 </ul>
 
